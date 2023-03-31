@@ -3,7 +3,8 @@ package common;
 public class MostRepeatingCharacter {
     
   static final int ASCII_SIZE = 256;
-    public static String  getMostRepeatedCharacter(String str) {
+  
+  public static String  getMostRepeatedCharacter(String str) {
 
         // Create array to keep the count of individual characters and initialize the array as 0
         int[] count = new int[ASCII_SIZE];
