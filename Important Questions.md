@@ -20,5 +20,9 @@
 1. Explain checked and unchecked exceptions
 2. Explain exception hierarchy 
 3. What is the difference between the throw and throws keyword in Java?
-4. What is OutOfMemoryError in Java / What is NullPointerException and when it occurs
+4. What is OutOfMemoryError in Java / What is NullPointerException and when it occurs?
+5. Can we have an empty catch block?
+6. What is an ideal way to handle execptions in Java?
+7. Explain few exceptions you have came accross while coding[eg: ArrayIndexOutBoundsException, NullPointerException etc].
+8. 
 
