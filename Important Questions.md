@@ -16,3 +16,9 @@
 2. Explain the difference between Strings, StringBuffer and StringBuilder
 3. Explain the ways we can create Strings in java
 
+**Exception Handling**
+1. Explain checked and unchecked exceptions
+2. Explain exception hierarchy 
+3. What is the difference between the throw and throws keyword in Java?
+4. What is OutOfMemoryError in Java / What is NullPointerException and when it occurs
+
