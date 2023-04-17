@@ -10,6 +10,7 @@
 8. Explain static and dynamic polymorphism [method overloading & method overriding]
 9. Explain static blocks and instance blocks [with real world use cases and examples]
 10. Explain final, finally and finalize keywords.[Prepare constructor chaing scenarios]
+11. Explain what are POJO classes and why they are useful
 
 **Strings**
 1. Why Java Strings are Immutable? [Explain with examples]
