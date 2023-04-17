@@ -1,2 +1,0 @@
-1. Explain OOPS concepts and where you have used them in your current automation framework.
-2. 
