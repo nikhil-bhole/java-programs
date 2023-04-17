@@ -24,5 +24,5 @@
 5. Can we have an empty catch block?
 6. What is an ideal way to handle execptions in Java?
 7. Explain few exceptions you have came accross while coding[eg: ArrayIndexOutBoundsException, NullPointerException etc].
-8. 
+
 
