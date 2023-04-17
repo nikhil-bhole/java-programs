@@ -7,4 +7,7 @@
 5. Explain 'static' keyword wrt to methods and variables.
 6. Explain this and super keyword. [If this question pops up, explain this, this(), super & super()]
 7. Explain OOPS [Abstraction, Encapsulation, Inheritance, Polymorphism] concepts and where you have used them in your current automation framework.
-8. 
+8. Explain static and dynamic polymorphism [method overloading & method overriding]
+9. Explain static blocks and instance blocks [with real world use cases and examples]
+10.Explain final and finally keywords.
+
