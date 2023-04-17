@@ -26,4 +26,11 @@
 6. What is an ideal way to handle execptions in Java?
 7. Explain few exceptions you have came accross while coding[eg: ArrayIndexOutBoundsException, NullPointerException etc].
 
+**Collection framework**
+1. Explain collection framework in Java and it's uses
+2. Explain the difference between Collection and Collections
+3. What is the difference between ArrayList and LinkedList? when to use ArrayList and when to used LinkedList
+4. What is Set? explain the difference between TreeSet, Hashaset and LinkedHashSet
+5. Can we store non homogenous objects in Collections? if yes explain how.
+6. 
 
