@@ -9,7 +9,7 @@
 7. Explain OOPS [Abstraction, Encapsulation, Inheritance, Polymorphism] concepts and where you have used them in your current automation framework.
 8. Explain static and dynamic polymorphism [method overloading & method overriding]
 9. Explain static blocks and instance blocks [with real world use cases and examples]
-10. Explain final and finally keywords.[Prepare constructor chaing scenarios]
+10. Explain final, finally and finalize keywords.[Prepare constructor chaing scenarios]
 
 **Strings**
 1. Why Java Strings are Immutable? [Explain with examples]
