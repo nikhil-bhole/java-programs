@@ -10,4 +10,5 @@
 8. Explain static and dynamic polymorphism [method overloading & method overriding]
 9. Explain static blocks and instance blocks [with real world use cases and examples]
 10.Explain final and finally keywords.
+11.Prepare constructor chaing scenarios
 
