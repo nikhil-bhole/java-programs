@@ -12,3 +12,7 @@
 10.Explain final and finally keywords.
 11.Prepare constructor chaing scenarios
 
+**Strings**
+1. Why Java Strings are Immutable? [Explain with examples]
+2. Explain the difference between Strings, StringBuffer and StringBuilder
+
