@@ -11,6 +11,12 @@
 9. Explain static blocks and instance blocks [with real world use cases and examples]
 10. Explain final, finally and finalize keywords.[Prepare constructor chaing scenarios]
 11. Explain what are POJO classes and why they are useful
+12. Can we overload/override constructors in Java?
+13. Explain constructors, why they are used and types of constructors
+14. Parent class P has method test, and Child class C extends P and also has overridden test method. explain which test method is called in below combinations
+P p = new P(); p.test();
+P p = new C(); p.test();
+C c = new C(); c.test(); 
 
 **Strings**
 1. Why Java Strings are Immutable? [Explain with examples]
@@ -25,12 +31,7 @@
 5. Can we have an empty catch block?
 6. What is an ideal way to handle execptions in Java?
 7. Explain few exceptions you have came accross while coding[eg: ArrayIndexOutBoundsException, NullPointerException etc].
-8. Can we overload/override constructors in Java?
-9. Explain constructors, why they are used and types of constructors
-10. Parent class P has method test, and Child class C extends P and also has overridden test method. explain which test method is called in below combinations
-P p = new P(); p.test();
-P p = new C(); p.test();
-C c = new C(); c.test(); 
+
 
 **Collection framework**
 1. Explain collection framework in Java and it's uses
